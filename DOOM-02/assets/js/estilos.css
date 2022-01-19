@@ -1,0 +1,10 @@
+/* Aqui agregamos nuestro estilos como clases */
+.bg-purple{
+    background-color: purple;
+}
+.h3 {
+    font-size: 30px;
+}
+.text-center{
+    text-align: center;
+}
